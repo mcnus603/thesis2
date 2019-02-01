@@ -1,0 +1,193 @@
+{
+	"content":{
+		"sources": [
+			{
+				"name": "ABC News",
+				"NewsAPI_id": "abc-news",
+				"hex": "CCAEFF", 
+				"pew_rating":-1.356717663
+			}, 
+			{
+				"name": "Al Jazeera America",
+				"NewsAPI_id": "aljazeera_english",
+				"hex": "5133FF", 
+				"pew_rating":-4.650236439
+			}, 
+			{
+				"name": "BBC",
+				"NewsAPI_id": "bbc-news",
+				"hex": "7B5DFF", 
+				"pew_rating":-3.526564673
+			}, 
+			{
+				"name": "The Blaze",
+				"NewsAPI_id": "the_blaze",
+				"hex": "FF0C2A", 
+				"pew_rating":5.684255911	
+			},
+			{
+				"name": "Bloomberg",
+				"NewsAPI_id": "bloomberg",
+				"hex": "CCAEFF", 
+				"pew_rating":-1.356717663
+			}, 
+			{
+				"name": "Breitbart News",
+				"NewsAPI_id": "breitbart-news",
+				"hex": "FF1634", 
+				"pew_rating":5.420890125 
+			}, 
+			{
+				"name": "Buzzfeed",
+				"NewsAPI_id": "buzzfeed",
+				"hex": "6F51FF", 
+				"pew_rating":-3.826759388
+			}, 
+			{
+				"name": "CBS News",
+				"NewsAPI_id": "cnn",
+				"hex": "D9BBFF", 
+				"pew_rating":-1.488150209 
+			}, 
+			{
+				"name": "CNN",
+				"NewsAPI_id": "abc-news",
+				"hex": "B395FF", 
+				"pew_rating":-2.024255911
+			}, 
+			{
+				"name": "Colbert Report",
+				"NewsAPI_id": "colbert_report",
+				"hex": "593BFF", 
+				"pew_rating":-4.413574409	
+			},
+			{
+				"name": "The Daily Show",
+				"NewsAPI_id": "daily_show",
+				"hex": "4325FF", 
+				"pew_rating":-5.020333797	
+			},
+			{
+				"name": "Drudge Report",
+				"NewsAPI_id": "the-drudge-report",
+				"hex": "FF3553", 
+				"pew_rating":4.583310153	
+			},
+			{
+				"name": "The Economist",
+				"NewsAPI_id": "the-economist",
+				"hex": "8567FF", 
+				"pew_rating":-3.254130737
+			}, 
+			{
+				"name": "Fox News",
+				"NewsAPI_id": "fox-news",
+				"hex": "FF9AB8", 
+				"pew_rating":1.889902643
+			}, 
+			{
+				"name": "Glenn Beck Program",
+				"NewsAPI_id": "glenn_beck program",
+				"hex": "FF0523", 
+				"pew_rating":5.85930459 	
+			},
+			{
+				"name": "The Guardian",
+				"NewsAPI_id": "the-guardian-uk",
+				"hex": "4C2EFF", 
+				"pew_rating":-4.778275382 
+			}, 
+			{
+				"name": "The Huffington Post",
+				"NewsAPI_id": "the-huffington-post",
+				"hex": "8062FF", 
+				"pew_rating":-3.381446453 
+			}, 
+			{
+				"name": "MSNBC",
+				"NewsAPI_id": "msnbc",
+				"hex": "5133FF", 
+				"pew_rating":-2.315382476 
+			}, 
+			{
+				"name": "NBC News",
+				"NewsAPI_id": "nbc-news",
+				"hex": "C0A2FF", 
+				"pew_rating":-1.681279555 
+			}, 
+			{
+				"name": "New York Times",
+				"NewsAPI_id": "bbc-news",
+				"hex": "7B5DFF", 
+				"pew_rating":-4.261947149
+			}, 
+			{
+				"name": "The New Yorker",
+				"NewsAPI_id": "new_yorker",
+				"hex": "2608FF", 
+				"pew_rating":-5.796161335	
+			},
+			{
+				"name": "NPR",
+				"NewsAPI_id": "npr",
+				"hex": "5739FF", 
+				"pew_rating":-4.484673157 	
+			},
+			{
+				"name": "PBS",
+				"NewsAPI_id": "pbs",
+				"hex": "7557FF", 
+				"pew_rating":-3.673713491 	
+			},
+			{
+				"name": "Politico",
+				"NewsAPI_id": "politico",
+				"hex": "896BFF", 
+				"pew_rating":-3.158831711 
+			}, 
+			{
+				"name": "Rush Limbaugh Show",
+				"NewsAPI_id": "rush_limbaugh",
+				"hex": "FF102E", 
+				"pew_rating":5.580917942 
+			},
+			{
+				"name": "Sean Hannity Show",
+				"NewsAPI_id": "sean_hannity",
+				"hex": "FF0927", 
+				"pew_rating":5.753324061 	
+			},
+			{
+				"name": "Slate",
+				"NewsAPI_id": "slate",
+				"hex": "2A0CFF", 
+				"pew_rating":-5.672461752 	
+			},
+			{
+				"name": "USA Today",
+				"NewsAPI_id": "usa-today",
+				"hex": "D3B5FF", 
+				"pew_rating":-1.176022253 
+			}, 
+			{
+				"name": "The Wall Street Journal",
+				"NewsAPI_id": "the-wall-street-journal",
+				"hex": "E8CAFF", 
+				"pew_rating":-0.61132128 
+			}, 
+			{
+				"name": "The Washington Post",
+				"NewsAPI_id": "the-washington-post",
+				"hex": "8062FF", 
+				"pew_rating":-3.381446453
+			}, 
+			{
+				"name": "Yahoo News",
+				"NewsAPI_id": "yahoo_news",
+				"hex": "E1C3FF", 
+				"pew_rating":-0.809986092	
+			}
+
+		]
+	}
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Thesis 2 Dev</title>
+</head>
+<body>
+
+
+
+<!-- FACEBOKK SDK  -->
+	<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : "Sarah's-first-app",
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v3.2'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+    
+  <script type="text/javascript" src="assets/jquery-3.3.1.js"></script>
+  <script type="text/javascript" src = "main.js"></script>
+</body>
+</html>
